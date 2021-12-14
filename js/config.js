@@ -12,3 +12,5 @@ let site_detail = {
         'url': 'https://lovelymyanmar.github.io/springmoni/products/index.html'
     }
 }
+
+export {site detail}
