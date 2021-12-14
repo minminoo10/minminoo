@@ -1,6 +1,6 @@
 let site_detail = {
   'site_name': {
-  'tc': 'LovelyMyanmar',
+  'tc': 'Min Min Oo',
   'url': 'https://lovelymyanmar.github.io'
     },
  'site_home': {
