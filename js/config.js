@@ -1,15 +1,15 @@
 let site_detail = {
   'site_name': {
   'tc': 'Min Min Oo',
-  'url': 'https://lovelymyanmar.github.io'
+  'url': 'https://minminoo10.github.io'
     },
  'site_home': {
         'tc': 'Home',
-        'url': 'https://lovelymyanmar.github.io/springmoni'
+        'url': 'https://minminoo10.github.io/composition'
     },
     'products': {
         'tc': 'Our Products',
-        'url': 'https://lovelymyanmar.github.io/springmoni/products/index.html'
+        'url': 'https://minminoo10.github.io/composition/products/index.html'
     }
 }
 
